@@ -12,4 +12,4 @@
 - Autonomous Driving Car
 
 ## Projects
-You can check my prjects in this [link](https://holistic-papyrus-88a.notion.site/Projects-32ebbc5db8638055b545da294f6d9c75?source=copy_link)
+You can check my projects in this [link](https://holistic-papyrus-88a.notion.site/Projects-32ebbc5db8638055b545da294f6d9c75?source=copy_link)
